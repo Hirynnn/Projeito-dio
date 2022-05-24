@@ -1,0 +1,44 @@
+
+-----HTML and CSS---
+<div>
+<section>- seção de conteudo
+<header>cabeçalho de uma section
+<article> conteudo relevante dentro da pagina
+<aside> conteudo relacionado principal, link etc
+<footer> rodapé da pagina
+<h1-h6> servem para definir o titulo
+
+ <ul>(lista com bolinha)<ol>(lista com numero)
+        <li>(item da lista)caixa:<a href="mailto:aguiarv0@gmail.com" target="_blank">e-mail</a>
+            </li>
+        <li>mangás:<a href="https://lectortmo.com/" target="_blank">mangás</a>
+            </li>
+        <li>github:<a href="https://github.com/Hirynnn"  target="_blank">github</a>
+            </li>
+
+pading{valor topo-direita-inferior-esquerda
+
+------Git and GitHub----
+ls(list)
+dir- lista as paginas
+cd/- list as paginas presentes no diretorio
+cd/(pasta)- abre a pasta
+cd ...(cada ponto uma volta- volta uma pasta 
+cls-limpar tela
+mkdir (nome da pasta)-criar uma pasta
+echo(palavra)>palavra(formato)-criar arquivo
+del (arquivo dentro da pasta)-deletar arquivo
+rmdir (pasta) /S /Q- remover repositorio
+openssl sha1 (nome do arquivo)- cria chave para encriptar
+ls -a(lista arquivos ocultos)
+git config global-- user."email"
+git config global-- user.name (nick)
+git init(cria repositorio na pasta)
+git add *(coloca em stage)
+git commit -m "(informcao)"
+ 88a4c5e(sha1)
+708d12e(sha1)
+git remote add origin (https://github.com/Hirynnn/teste.git)- adicionar link do repositorio
+git push origin master(coloca  o arquivo no github)
+
+
